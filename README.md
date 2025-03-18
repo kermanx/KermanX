@@ -87,7 +87,7 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
 **Other projects** \
 [simple_ts](https://github.com/kermanx/simple_ts) - The simple way to resolve/infer TypeScript types \
 [js.rs](https://github.com/kermanx/js.rs) - JavaScript but in Rust syntax \
-[Refina.js](https://github.com/refinajs/refina) - An refined ImGUI-style web framework \
+[Refina.js](https://github.com/refinajs/refina) - A refined ImGUI-style web framework \
 [Quasi Studio](https://github.com/Quasi-Studio/quasi) - A structure-oriented and unique [LCDP](https://en.wikipedia.org/wiki/Low-code_development_platform) \
 [tmLanguage Previewer](https://github.com/KermanX/tmLanguage-Previewer) - A VS Code extension for previewing tmLanguage grammars \
 [SOF](https://github.com/Structure-Oriented-Framework/SOF) - The Structure-oriented Framework \
