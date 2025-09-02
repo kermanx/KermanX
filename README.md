@@ -103,10 +103,5 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
 
 <!--END_SECTION:waka-->
 
-### Links
-  
-  <a href="mailto:kermanx@qq.com"><img src="https://img.shields.io/badge/-KermanX@qq.com-168de2?style=flat-square&logo=mail.ru&logoColor=white"/></a>
-  <a href="https://discord.com/users/1129773314664054804"><img src="https://img.shields.io/badge/-kermanx-5662f6?style=flat-square&logo=discord&logoColor=white"/></a>
-  <a href="https://x.com/@KermanX_"><img src="https://img.shields.io/badge/-KermanX_-333333?style=flat-square&logo=x&logoColor=white"/></a>
-  <br/>
-  <a href="https://afdian.com/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
+<br>
+<a href="https://afdian.com/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
