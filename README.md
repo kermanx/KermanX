@@ -35,7 +35,7 @@ A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/KermanX/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.github.io/reactive-vscode/logo.svg" width="140"></a><br/>
+<a href="https://github.com/kermanx/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.com/reactive-vscode/logo.svg" width="140"></a><br/>
 creator
 
 <br/>
@@ -43,13 +43,13 @@ creator
 </td>
 <td align="left" width="630px">
 
-### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/KermanX/reactive-vscode?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
+### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/kermanx/reactive-vscode?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
 
 > Develop VSCode extension with Vue Reactivity API.
 
 Wraps VSCode extension APIs into Vue Composables.
 
-[Docs](https://kermanx.github.io/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/KermanX/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.github.io/reactive-vscode/guide/why.html)
+[Docs](https://kermanx.com/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/kermanx/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.com/reactive-vscode/guide/why.html)
 
 <br/>
 
@@ -61,7 +61,7 @@ Wraps VSCode extension APIs into Vue Composables.
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/KermanX/tree-shaker"><img alt="Tree-shaker logo" src="https://kermanx.github.io/tree-shaker/favicon.ico" width="140"></a><br/>
+<a href="https://github.com/kermanx/jsshaker"><img alt="Tree-shaker logo" src="https://kermanx.com/jsshaker/favicon.ico" width="140"></a><br/>
 creator
 
 <br/>
@@ -69,11 +69,11 @@ creator
 </td>
 <td align="left" width="630px">
 
-### Experimental Tree Shaker (WIP) <img align="right" src="https://img.shields.io/github/stars/KermanX/tree-shaker?style=flat-square&color=gold" alt="GitHub Repo's stars" title="GitHub repo's stars">
+### JsShaker <img align="right" src="https://img.shields.io/github/stars/kermanx/jsshaker?style=flat-square&color=gold" alt="GitHub Repo's stars" title="GitHub repo's stars">
 
-A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/).
+Code size optimizer for JavaScript based on Abstract Interpretation.
 
-[Repo](https://github.com/KermanX/tree-shaker) &nbsp;|&nbsp; [Try it](https://kermanx.github.io/tree-shaker/)
+[Repo](https://github.com/kermanx/jsshaker) &nbsp;|&nbsp; [Try it](https://kermanx.com/jsshaker/)
 
 <br/>
 
@@ -89,7 +89,7 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
 [js.rs](https://github.com/kermanx/js.rs) - JavaScript but in Rust syntax \
 [Refina.js](https://github.com/refinajs/refina) - A refined ImGUI-style web framework \
 [Quasi Studio](https://github.com/Quasi-Studio/quasi) - A structure-oriented and unique [LCDP](https://en.wikipedia.org/wiki/Low-code_development_platform) \
-[tmLanguage Previewer](https://github.com/KermanX/tmLanguage-Previewer) - A VS Code extension for previewing tmLanguage grammars \
+[tmLanguage Previewer](https://github.com/kermanx/tmLanguage-Previewer) - A VS Code extension for previewing tmLanguage grammars \
 [SOF](https://github.com/Structure-Oriented-Framework/SOF) - The Structure-oriented Framework \
 [ZVMS](https://github.com/zvms/zvms) - Zhenhai High School Volunteer Management System
 
