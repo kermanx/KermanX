@@ -9,12 +9,28 @@ Projects I work on:
 <table><tbody><tr>
 <td align="middle" width="170px">
 
+<a href="https://github.com/MoonshotAI/kimi-code"><img alt="Slidev logo" src="https://github.com/MoonshotAI.png" width="80"></a>
+
+</td>
+<td align="left" width="630px">
+
+### Kimi Code <img align="right" src="https://img.shields.io/github/stars/moonshotai/kimi-code?style=flat-square&color=gold">
+
+Coding agent.
+
+[Repo](https://github.com/MoonshotAI/kimi-code) &nbsp;|&nbsp; [Homepage](https://www.kimi.com/code)
+<br><br>
+
+</td>
+</tr><tr>
+<td align="middle" width="170px">
+
 <a href="https://github.com/slidevjs/slidev"><img alt="Slidev logo" src="https://sli.dev/logo-title.png" width="140"></a>
 
 </td>
 <td align="left" width="630px">
 
-### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=gold">
 
 Presentation slides for developers.
 
@@ -30,7 +46,7 @@ Presentation slides for developers.
 </td>
 <td align="left" width="630px">
 
-### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/kermanx/reactive-vscode?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
+### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/kermanx/reactive-vscode?style=flat-square&color=gold">
 
 Develop VS Code extension with Vue Reactivity API.
 
@@ -46,7 +62,7 @@ Develop VS Code extension with Vue Reactivity API.
 </td>
 <td align="left" width="630px">
 
-### JsShaker <img align="right" src="https://img.shields.io/github/stars/kermanx/jsshaker?style=flat-square&color=gold" alt="GitHub Repo's stars" title="GitHub repo's stars">
+### JsShaker <img align="right" src="https://img.shields.io/github/stars/kermanx/jsshaker?style=flat-square&color=gold">
 
 Code size optimizer for JavaScript based on Abstract Interpretation.
 
