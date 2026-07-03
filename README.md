@@ -9,7 +9,7 @@ Projects I work on:
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/MoonshotAI/kimi-code"><img alt="Slidev logo" src="https://github.com/MoonshotAI.png" width="80"></a>
+<a href="https://github.com/MoonshotAI/kimi-code"><img alt="Kimi logo" src="https://github.com/MoonshotAI/kimi-code/blob/main/docs/.vitepress/theme/Kimi.png?raw=true" width="80"></a>
 
 </td>
 <td align="left" width="630px">
