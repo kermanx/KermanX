@@ -9,7 +9,23 @@ Projects I work on:
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/MoonshotAI/kimi-code"><img alt="Kimi logo" src="https://github.com/MoonshotAI/kimi-code/blob/main/docs/.vitepress/theme/Kimi.png?raw=true" width="74"></a>
+<a href="https://github.com/deepseek-ai/deepseek-harness"><img alt="DSH logo" src="https://www.deepseek.com/harness/favicon.svg" width="85"></a>
+
+</td>
+<td align="left" width="630px">
+
+### DeepSeek Harness <img align="right" src="https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=flat-square&color=gold">
+
+Everything is a plugin.
+
+[Repo](https://github.com/deepseek-ai/deepseek-harness) &nbsp;|&nbsp; [Homepage](https://www.deepseek.com/harness/)
+<br><br>
+
+</td>
+</tr><tr>
+<td align="middle" width="170px">
+
+<a href="https://github.com/MoonshotAI/kimi-code"><img alt="Kimi logo" src="https://github.com/MoonshotAI/kimi-code/blob/main/docs/.vitepress/theme/Kimi.png?raw=true" width="70"></a>
 
 </td>
 <td align="left" width="630px">
@@ -25,7 +41,7 @@ Coding agent.
 </tr><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/slidevjs/slidev"><img alt="Slidev logo" src="https://sli.dev/logo-title.png" width="140"></a>
+<a href="https://github.com/slidevjs/slidev"><img alt="Slidev logo" src="https://sli.dev/logo-title.png" width="130"></a>
 
 </td>
 <td align="left" width="630px">
@@ -41,7 +57,7 @@ Presentation slides for developers.
 </tr><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/kermanx/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.com/reactive-vscode/logo.svg" width="140"></a>
+<a href="https://github.com/kermanx/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.com/reactive-vscode/logo.svg" width="110"></a>
 
 </td>
 <td align="left" width="630px">
@@ -57,7 +73,7 @@ Develop VS Code extension with Vue Reactivity API.
 </tr><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/kermanx/jsshaker"><img alt="Tree-shaker logo" src="https://kermanx.com/jsshaker/favicon.ico" width="140"></a>
+<a href="https://github.com/kermanx/jsshaker"><img alt="Tree-shaker logo" src="https://kermanx.com/jsshaker/favicon.ico" width="120"></a>
 
 </td>
 <td align="left" width="630px">
